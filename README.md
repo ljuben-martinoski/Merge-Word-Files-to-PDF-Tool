@@ -114,3 +114,5 @@ This is open source, so use it however you want. If you find bugs or want to add
 
 - [python-docx](https://python-docx.readthedocs.io/) for making Word files easy to work with
 - [LibreOffice](https://www.libreoffice.org/) for the PDF conversion magic
+
+!!!!There is also a How to use .txt file be sure to check it out!!!!!!!
